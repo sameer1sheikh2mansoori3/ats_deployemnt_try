@@ -1,0 +1,28 @@
+# Virtual environment folder
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variable files
+.env
+
+# Streamlit specific
+*.db
+
+# Log files
+*.log
+
+# Coverage and testing folders
+.coverage/
+*.tox/
+*.nox/
+
+# OS-specific files (Mac and Windows)
+.DS_Store
+Thumbs.db
+
+# JetBrains IDE files (optional, if using PyCharm or similar)
+.idea/
